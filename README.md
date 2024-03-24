@@ -1,8 +1,7 @@
 # MemoryScape_Team13
 ### Members: Elya Renom, Alex Miller, Hooman Azari, Saiyara Islam, Amir Ozhan Dehghani
 
-## Project Details 
-- Project Name: MemoryScape
+## MemoryScape 
 - Trailer Video link: 
 - Project Description:
 

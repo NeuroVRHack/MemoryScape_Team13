@@ -19,7 +19,7 @@ We prioritise accessibility in this project, specifically, for users that might 
 ### Technologies Used & References
 - Technologies/Features used:
 
-For our application, we used Unity (version 2022.3.21f), with the Meta Quest 3 headset for mixed reality. We used the Meta Quest Developer Hub for development. As part of the XR environment, we implemented Passthrough features and spatial anchors. 
+For our application, we used Unity (version 2022.3.21f), with the Meta Quest 3 headset for mixed reality. We used the Meta Quest Developer Hub for development. As part of the XR environment, we implemented *Passthrough features* and *spatial anchors*. 
 
 - References/Resources: 
   

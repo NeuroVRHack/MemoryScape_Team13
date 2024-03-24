@@ -23,7 +23,7 @@ For our application, we used Unity (version 2022.3.21f), with the Meta Quest 3 h
 
 - References/Resources: 
   
-Our mixed-reality environment includes stationary and animated assets, from the unity asset store and meshy pro. Our audio assets were acquired for free from https://www.zapsplat.com/ and freesound.org. 
+Our mixed-reality environment includes stationary and animated assets, from the unity asset store and meshy pro. Our audio assets were acquired for free from zapsplat.com and freesound.org. 
 
 
 ## Setup

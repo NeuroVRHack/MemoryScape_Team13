@@ -7,7 +7,7 @@
 ### Members: Elya Renom, Alex Miller, Hooman Azari, Saiyara Islam, Amir Ozhan Dehghani
 
 ## MemoryScape 
-- Trailer Video link: 
+- Trailer Video link: https://youtu.be/gDET8r42Vdc
 - Project
 Description:
 

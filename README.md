@@ -3,7 +3,8 @@
 
 ## MemoryScape 
 - Trailer Video link: 
-- Project Description:
+- Project ![Screenshot 2024-03-23 at 22 05 14](https://github.com/NeuroVRHack/MemoryScape_Team13/assets/133069657/83c82544-6b3c-41f5-b56e-42917404e749)
+Description:
 
 Memoryscape is a mixed-reality environment that aims to help patients suffering from cognitive impairments, such as dementia and Alzheimer's disease, to improve memory retention by creating memory-based routines. Our project is based on the concept of “memory palaces”, a mental technique for information retention. The core of the idea centres around associating information with specific, familiar locations and objects in a physical space. We’ve implemented this concept in an interactive mixed-reality setting. Specifically, our demo implementation involves navigation between objects, where each object is associated with a sound and a memory task (e.g. remembering to take medication or remembering emergency contact info). The goal of the task is for patients to establish cognitive links between their memories and specific objects, sounds, and locations. These connections are intended to enhance memory retention and recall. Research has shown that information becomes more memorable when it is tied to events or significant sensory experiences, including vision, sound, and touch. 
 

@@ -16,6 +16,9 @@ Memoryscape is a mixed-reality environment that aims to help patients suffering 
 We prioritise accessibility in this project, specifically, for users that might be triggered by sudden visual and auditory change. We accommodate their needs by providing a relaxing experience with calm background music and no teleportation or sudden movement. The XR aspect is also well-suited to the needs of our target audience, as allowing them to be in a familiar environment decreases the potential stress and confusion associated with the experience. Moreover, XR is interactive so it can also help improve motor control and coordination in neurological patients. Overall, our software aims to increase resilience in completing otherwise simple day-to-day tasks for such patients.
 
 
+link to the build file: https://drive.google.com/file/d/1C0Wm43iQWQOvVcKeq8Rzri_AA8sK772D/view
+
+
 ### Technologies Used & References
 - Technologies/Features used:
 

@@ -11,9 +11,12 @@ We prioritise accessibility in this project, specifically, for users that might 
 
 
 ### Technologies Used & References
-- Technologies/Features used: (meta presence platform? XR vs VR vs AR? What head-mounted device?)
-For our application, we used Unity (version 2022.3.21f), with the Meta Quest 3 headset for mixed reality. As part of the mixed reality environment, we implemented Passthrough features and spatial anchors. 
-- References/Resources: (frameworks, libraries, assets)
+- Technologies/Features used:
+
+For our application, we used Unity (version 2022.3.21f), with the Meta Quest 3 headset for mixed reality. We used the Meta Quest Developer Hub for development. As part of the XR environment, we implemented Passthrough features and spatial anchors. 
+
+- References/Resources: 
+  
 Our mixed-reality environment includes stationary and animated assets, from the unity asset store and meshy pro. Our audio assets were acquired for free from https://www.zapsplat.com/. 
 
 

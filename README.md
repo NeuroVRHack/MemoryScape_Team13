@@ -4,7 +4,7 @@
 ![Screenshot 2024-03-23 at 22 05 14](https://github.com/NeuroVRHack/MemoryScape_Team13/assets/133069657/83c82544-6b3c-41f5-b56e-42917404e749)
 
 
-### Members: Elya Renom, Alex Miller, Hooman Azari, Saiyara Islam, Amir Ozhan Dehghani
+### Members: Elya Renom, Alex Miller, Hooman Azari
 
 ## MemoryScape 
 - Trailer Video link: https://youtu.be/gDET8r42Vdc
